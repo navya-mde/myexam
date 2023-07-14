@@ -36,6 +36,13 @@ const Menu = () => {
             <h3>Veg Burger</h3>
             <p>$79.00</p>
             </div>
+            <div className="col">
+            <img src="https://th.bing.com/th/id/OIP.T61kA6G-YyOAF0U30QaJZgHaE8?w=258&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+                                alt="">
+            </img>
+            <h3>Cream Burger</h3>
+            <p>$79.00</p>
+            </div>
     </div>
     </div>
     
